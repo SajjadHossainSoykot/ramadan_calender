@@ -15,8 +15,8 @@
 
 ## ✨ Overview
 
-Ramadan Calendar 2026 is a beautifully designed, responsive web application that provides accurate Sehri and Iftar timings for all districts of Bangladesh.
-
+Ramadan Calendar 2026 is a beautifully designed, responsive web application that provides accurate Sehri and Iftar timings for all districts of Bangladesh.  
+This web application follows the Time Schedule of Islamic Foundation Bangladesh.   
 It combines clean UI design, smart search functionality, real-time countdown logic, and Progressive Web App capabilities to deliver a smooth and modern Ramadan experience.
 
 ---
