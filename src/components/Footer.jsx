@@ -48,7 +48,7 @@ export default function Footer() {
         <div className="border-t border-green-800 mt-10 pt-6 text-center text-sm text-green-400">
           <div className="mt-4 space-y-1 text-green-300 text-xs sm:text-sm">
             <p>
-              <span className="font-semibold text-green-200">Initial Design:</span>{" "}
+              <span className="font-semibold text-green-200">Designer and Intial Version :</span>{" "}
               <a
                 href="https://github.com/kazimmt"
                 target="_blank"
@@ -60,7 +60,7 @@ export default function Footer() {
             </p>
 
             <p>
-              <span className="font-semibold text-green-200">Feature Enhancements:</span>{" "}
+              <span className="font-semibold text-green-200">Feature Enhancements and Developer:</span>{" "}
               <a
                 href="https://github.com/SajjadHossainSoykot"
                 target="_blank"
