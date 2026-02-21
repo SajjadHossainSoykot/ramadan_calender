@@ -1,4 +1,4 @@
-# 🌙 Ramadan Calendar 2026 – Bangladesh
+<H1 align="center"> 🌙 Ramadan Calendar 2026 – Bangladesh</H1>
 
 <p align="center">
   <b>A Modern District-Based Ramadan Timetable Web App</b><br/>
