@@ -1,20 +1,13 @@
 {
   "name": "রমজান সময়সূচি ১৪৪৭",
   "short_name": "রমজান সময়সূচি",
-  "start_url": "./index_updated.html",
+  "start_url": "/ramadan_calender/",
+  "scope": "/ramadan_calender/",
   "display": "standalone",
   "background_color": "#f0fdf4",
   "theme_color": "#166534",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    { "src": "/ramadan_calender/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/ramadan_calender/icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
