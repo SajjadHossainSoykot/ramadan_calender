@@ -1,11 +1,11 @@
 		// Date
-        const calendarSettings = {
+        export const calendarSettings = {
             startYear: 2026,
             startMonth: 1, // ফেব্রুয়ারি
             startDay: 19
         };
         // Timetable
-        const rawDistrictData = {
+        export const rawDistrictData = {
 			// Dhaka Division
             "dhaka": {
                 name: "ঢাকা",
