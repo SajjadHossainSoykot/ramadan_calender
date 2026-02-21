@@ -142,12 +142,14 @@ https://sajjadhossainsoykot.github.io/ramadan_calender/
 ## 👨‍💻 Developers
 
 <p>
-  <b>Sajjad Hossain Soykot</b><br/>
+<i>Feature Enhancements and Developer:</i><br> 
+<b>Sajjad Hossain Soykot</b><br/>
   <a href="https://github.com/SajjadHossainSoykot">@SajjadHossainSoykot</a>
 </p>
 
 <p>
-  <b>Kazi Tuhin</b><br/>
+<i>Designer and Intial Version:</i><br>
+<b>Kazi Tuhin</b><br/>
   <a href="https://github.com/kazimmt">@kazimmt</a>
 </p>
 
